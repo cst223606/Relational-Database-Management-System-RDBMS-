@@ -1,0 +1,5 @@
+Jack,12345,jack@gmail.com,12,Monday Period 2,Tuesday Period 2
+Sean,199560,sean@gmail.com,12,Monday Period 2,Tuesday Period 2
+Peter,2004,peter@gmail.com,12,Monday Period 2,Tuesday Period 2
+Samson,458903,samson@gmail.com,11,Monday Period 2,Tuesday Period 3
+Luke,196832,luke@gmail.com,12,Monday Period 1,Monday Period 4

@@ -1,0 +1,8 @@
+New student,1943,Lewis,lewis@gmail.com,12,Music,12345,Jack,Science,Music,
+Visitor,Proctor,19540693394,proctor@gmail.com,31/01/2023,9:30 am to 10:50 am,Chinese,199560,Sean,Chinese,Spanish,Monday Period 2,Tuesday Period 2,
+Visitor,Pascal,13738117988,pascal@gmail.com,30/01/2023,9:30 am to 10:50 am,Japanese,458903,Samson,Japanese,Chinese,Monday Period 2,Tuesday Period 3,
+Visitor,Wayne,12345678,wayne@gmail.com,31/01/2023,9:30 am to 10:50 am,Chinese,12345,Jack,jack@gmail.com,Chinese,Japanese,Monday Period 2,Tuesday Period 2,
+Sports,Tennis,2,0,0,0,0,0,12345,Jack,jack@gmail.com,√,x,x,x,x,x,
+New student,20956,Rose,rose@gmail.com,12,Music,194829,Luke,yhyang23@iskl.edu.my,Music,Science,
+Visitor,Jensen,19588021804,jensen@gmail.com,20/02/2023,9:30 am to 10:50 am,Chinese,2004,Peter,peter@gmail.com,Chinese,English,Monday Period 2,Tuesday Period 2,
+Visitor,Wayne,13426885439,wayne@gmail.com,27/02/2023,8:00 am to 9:20 am,Chinese,196832,Luke,luke@gmail.com,Chinese,English,Monday Period 1,Monday Period 4,

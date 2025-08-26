@@ -1,0 +1,4 @@
+Tennis,1,0,0,0,0,0
+Table tennis,1,0,4,3,3,2
+Track,4,6,7,0,0,1
+Running,3,4,6,1,0,1
